@@ -1,3 +1,6 @@
+Количество контрибуций на гитхабе за последний год, используется стороний api с данными вымышленного пользователя
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
